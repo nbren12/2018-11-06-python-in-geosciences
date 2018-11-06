@@ -5,3 +5,5 @@ matplotlib
 xarray
 scikit-learn
 netcdf4
+torch
+torchvision
