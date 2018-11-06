@@ -1,0 +1,6 @@
+datashader
+holoviews
+bokeh
+matplotlib
+xarray
+scikit-learn
