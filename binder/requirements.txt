@@ -4,3 +4,4 @@ bokeh
 matplotlib
 xarray
 scikit-learn
+netcdf4
